@@ -3,8 +3,12 @@ In progress medication interaction app, dedicated to learning about API manageme
 
 The initial part of this project is currently complete! It is still a work in progress, but I do think the main premise of the project comes across well. As someone who takes quite a few medications and often gets nervous about possible interaction side effects, I wanted to make a simple website that aims to ease this anxiety. 
 
-I need to figure out a way to have both my API and my site running outside of my local computer, which should come eventually. I'll update this if so!
+This site is in no way trying to override or make a diagnosis. This tool should be used cautiously- please consult your doctor for any serious concerns.
 
+<b> API's Used </b>
+- FDA Public Drug API
+- DDInter's Open Source API
+  
 <h1> Demo ᢉ𐭩 </h1>
 
 https://github.com/user-attachments/assets/50c2e598-6579-4089-bae5-e045f80ec940
@@ -17,6 +21,5 @@ In no particular order,
   <li> Expand to include food interactions/food advice (ex. avoid grapefruit if taking ssris) </li>
   <li> Make publically avaliable </li>
 </u1>
-
 
 
