@@ -10,7 +10,7 @@ I need to figure out a way to have both my API and my site running outside of my
 https://github.com/user-attachments/assets/50c2e598-6579-4089-bae5-e045f80ec940
 
 
-<h2> Upcoming/Potential Updates ⋆˚꩜｡ </h2> 
+<h1> Upcoming/Potential Updates ⋆˚꩜｡ </h1> 
 In no particular order,
 <u1> 
 <li> 1. Summarize warnings + make more digestable for average viewer </li>
