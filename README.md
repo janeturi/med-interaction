@@ -20,6 +20,7 @@ In no particular order,
   <li> Summarize warnings + make more digestable for average viewer </li>
   <li> Expand to include food interactions/food advice (ex. avoid grapefruit if taking ssris) </li>
   <li> Make publically avaliable </li>
+  <li> Implement time feature to allow users to track when medication leaves their bodies, updating interactions if so </li>
 </u1>
 
 
