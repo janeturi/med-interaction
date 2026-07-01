@@ -77,8 +77,8 @@ function Typewriter({ text, speed = -5 }) {
 function Button({ label, onClick, variant = "primary"}) {
   const buttonImages = {
     primary: btnBackground,
-    altgreen: btnBackground, // Maps to your green asset
-    altgray: altButton,      // Maps to your gray asset
+    altgreen: btnBackground,
+    altgray: altButton,
   };
 
   const chosenImage = buttonImages[variant] || buttonImages.primary;
@@ -221,7 +221,6 @@ function HomeScreen({ onStart }) {
 
 
 // logging screen
-// wrap in stylization 
 
 function LoggingScreen({ meds, setMeds, onBack, onContinue }) {
   const [input, setInput] = useState("");
