@@ -1,9 +1,7 @@
 # med-interaction ⋆˚࿔
-In progress medication interaction app, dedicated to learning about API management, JavaScript, CSS, HTMl, and React frameworks! I also used Java Spring!
+Full-stack medication management application aggregating FDA drug labeling data and open-source drug interaction datasets to help users identify adverse interactions, monitor medication schedules, and access safety information through an interactive web interface. The initial part of this project is currently complete. However, feel free to read further in the README to look at potential and upcoing updates.
 
-The initial part of this project is currently complete! It is still a work in progress, but I do think the main premise of the project comes across well. As someone who takes quite a few medications and often gets nervous about possible interaction side effects, I wanted to make a simple website that aims to ease this anxiety. 
-
-This site is in no way trying to override or make a diagnosis. This tool should be used cautiously- please consult your doctor for any serious concerns.
+WARNING: This site is in no way trying to override or make a diagnosis. This tool should be used cautiously- please consult your doctor for any serious concerns.
 
 <b> API's Used </b>
 - FDA Public Drug API
